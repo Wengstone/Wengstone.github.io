@@ -40,7 +40,7 @@ Talks
 Teaching
 ======
 * Fall 2023: Teaching Assistant
-  * Beijing University
+  * Beijing Normal University
   * Duties included: homework correcting, knowledge answering
   * Supervisor: Professor LiangZhao
   
